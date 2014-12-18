@@ -1,0 +1,147 @@
+<html>
+<head>
+<title>Runaway Robot</title>
+   <META NAME="keywords" CONTENT="game, hack, hacking, programming, competition,runaway">
+   <META NAME="description" CONTENT="Play and hack a runaway robot puzzle game.">
+	<LINK rel="stylesheet" href="/css/style.css" type="text/css">
+</head>
+<body>
+
+<table border=0 cellspacing=0 cellpadding=0>
+<tr valign=center>
+<td>
+ <img src="/images/header.png" width="877" height="68" border="0" alt="" usemap="#header_Map">
+<map name="header_Map">
+<area shape="rect" alt="" coords="753,41,858,63" href="/forum/profile.php?mode=register">
+<area shape="rect" alt="" coords="753,14,858,36" href="/forum/login.php">
+<area shape="rect" alt="" coords="0,22,223,61" href="/">
+</map>
+<map name="header_Map_li">
+<area shape="rect" alt="" coords="0,22,223,61" href="/">
+</map>
+</td>
+<td align=left style="border-bottom: 1px solid #d4f3e1"><img src="logo.png"></td>
+</tr></table><table border=0>
+<tr valign=top>
+<td>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="550" height="500" id="escape" align="middle">
+<PARAM NAME=FlashVars VALUE="FVterrainString=.....XX.X.......X.....X.X.X...X.........X...X..X.X.X........XXX.&FVinsMax=5&FVinsMin=3&FVboardX=8&FVboardY=8&FVlevel=10">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="escape.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />
+<embed src="escape.swf"
+FlashVars="FVterrainString=.....XX.X.......X.....X.X.X...X.........X...X..X.X.X........XXX.&FVinsMax=5&FVinsMin=3&FVboardX=8&FVboardY=8&FVlevel=10"
+ quality="high" bgcolor="#ffffff" width="660" height="600" name="escape" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+<br><br><div style="clear:both"><form action=index.php method=get><input type="text" name="gotolevel" size="3" value="514" />
+<input type="submit" name="go" value="Go To Level" /></form></div></td>
+<td>
+<table border=0>
+<tr>
+<th colspan=3>
+High Scores
+</th>
+</tr>
+<tr>
+<th>player</th>
+<th>level</th>
+<th>date</th>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=2">bok</a></td>
+<td><a href="/util/charthistory.php?userid=2&game=runaway">513</td>
+<td>2007-05-07 22:37</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=387">Captain Segfault</a></td>
+<td><a href="/util/charthistory.php?userid=387&game=runaway">513</td>
+<td>2007-05-09 01:51</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=377">falcon2424</a></td>
+<td><a href="/util/charthistory.php?userid=377&game=runaway">513</td>
+<td>2007-05-10 04:13</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=369">abes</a></td>
+<td><a href="/util/charthistory.php?userid=369&game=runaway">513</td>
+<td>2007-05-10 15:19</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=419">zzzz</a></td>
+<td><a href="/util/charthistory.php?userid=419&game=runaway">513</td>
+<td>2007-05-21 00:40</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=498">ShardFire</a></td>
+<td><a href="/util/charthistory.php?userid=498&game=runaway">513</td>
+<td>2007-06-04 16:29</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=507">iceman</a></td>
+<td><a href="/util/charthistory.php?userid=507&game=runaway">513</td>
+<td>2007-06-07 11:52</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=636">Edegroot</a></td>
+<td><a href="/util/charthistory.php?userid=636&game=runaway">513</td>
+<td>2007-06-18 13:15</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=658">Takun</a></td>
+<td><a href="/util/charthistory.php?userid=658&game=runaway">513</td>
+<td>2007-06-23 07:44</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=554">JamesCFraser</a></td>
+<td><a href="/util/charthistory.php?userid=554&game=runaway">513</td>
+<td>2007-06-30 12:57</td>
+</tr>
+<tr><td colspan=3><a href="?showhigh">See all...</a></td></tr></table>
+<br>
+<table border=0>
+<tr>
+<th colspan=3>
+Weekly High Scores
+</th>
+</tr>
+<tr>
+<th>player</th>
+<th>level</th>
+<th>date</th>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=35721">DoctorVasSchool</a></td>
+<td><a href="/util/charthistory.php?userid=35721&game=runaway">26</td>
+<td>2014-12-15 05:50</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=35762">Aboyaman</a></td>
+<td><a href="/util/charthistory.php?userid=35762&game=runaway">19</td>
+<td>2014-12-10 07:26</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=35835">flammeus</a></td>
+<td><a href="/util/charthistory.php?userid=35835&game=runaway">19</td>
+<td>2014-12-16 05:54</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=6493">c-bîrd</a></td>
+<td><a href="/util/charthistory.php?userid=6493&game=runaway">18</td>
+<td>2014-12-14 10:36</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=35371">TaylorTheTailor</a></td>
+<td><a href="/util/charthistory.php?userid=35371&game=runaway">11</td>
+<td>2014-12-13 23:14</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=35802">Th0rn</a></td>
+<td><a href="/util/charthistory.php?userid=35802&game=runaway">10</td>
+<td>2014-12-12 09:45</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=35759">BlackTurtle</a></td>
+<td><a href="/util/charthistory.php?userid=35759&game=runaway">9</td>
+<td>2014-12-09 16:44</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=35829">JasonLi</a></td>
+<td><a href="/util/charthistory.php?userid=35829&game=runaway">9</td>
+<td>2014-12-16 04:40</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=35826">woodygo</a></td>
+<td><a href="/util/charthistory.php?userid=35826&game=runaway">9</td>
+<td>2014-12-16 05:08</td>
+</tr>
+<tr valign=center><td><a href="/forum/profile.php?mode=viewprofile&u=35789">13l4nc0</a></td>
+<td><a href="/util/charthistory.php?userid=35789&game=runaway">6</td>
+<td>2014-12-10 08:11</td>
+</tr>
+</table>
+
+</td>
+</tr></table>
+</body>
+</html>
